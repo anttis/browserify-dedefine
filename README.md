@@ -1,0 +1,2 @@
+# browserify-dedefine
+Browserify dedefine
